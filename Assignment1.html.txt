@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="container">
+            <h1>Laptop</h1>
+            <img src="laptop.jpg"
+                width="200px" height="200px">
+            <p style="color:blue">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, accusantium
+                quaerat nostrum,
+                laudantium reprehenderit libero sunt consequatur nesciunt necessitatibus
+                repudiandae dignissimos magnam, animi eos odio asperiores sapiente quia nam commodi.</p>
+
+                <h2>Virat Kohli</h2>
+                <img src="abc/virat kohli.jpg" width="200px" height="200px" alt=""><br>
+                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam explicabo sit deserunt nesciunt porro, harum recusandae soluta cupiditate natus, quos sint doloremque. Sint, ducimus!</span>
+
+                <h3>Neeraj Chopra</h3>
+            <img src="https://wallpaperaccess.com/full/6501698.jpg"
+                width="200px" height="200px">
+            <p style="color:orange">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, accusantium
+                quaerat nostrum,
+                laudantium reprehenderit libero sunt consequatur nesciunt necessitatibus
+                repudiandae dignissimos magnam, animi eos odio asperiores sapiente quia nam commodi.</p>
+
+            <h4>Pollution</h4>
+            <img src="pollution.jpeg" width="200px" height="200px">
+            <ul type="square">
+                <li>three type of pollution</li>
+                <li>air pollution</li>
+                <li>water pollution</li>
+                <li>soil pollution</li>
+            </ul>
+
+            <h5>Fruits</h5>
+            <img src="abc/fruits.jpg" width="200px" height="200px">
+            <ol>
+                <li>Apple</li>
+                <li>Banana</li>
+                <li>grapesh</li>
+                <li>papaya</li>
+            </ol>
+             
+            <h6>Gemini company logo</h6>
+            <img src="https://media.licdn.com/dms/image/C4D0BAQFYvS19t2m6FA/company-logo_200_200/0/1654052655904?e=2147483647&v=beta&t=HhKB2M3tbvT_vVMJ2OJ7wrGwJouMDTo8JzhhI06pNQk" alt="" width="200px" height="200px"><br>
+            <a href="https://www.geminisolutions.com/">go to gemini site</a>
+
+        </div>
+</body>
+
+</html>
